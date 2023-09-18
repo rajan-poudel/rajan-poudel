@@ -20,8 +20,6 @@
 
 <br>
 <br>
-<br>
-<br>
 <img align="left" alt="Coding" width="400" src="https://metricool.com/wp-content/uploads/socialmedia-1.gif">
 <h3 align="right">Connect with me:</h3>
 <p align="right">
