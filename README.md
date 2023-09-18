@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-a-j-a-n&label=Profile%20views&color=0e75b6&style=flat" alt="r-a-j-a-n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-a-j-a-n" alt="r-a-j-a-n" /></a> </p>
-
 - 🌱 I’m currently learning **new stuffs related to programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/r-a-j-a-n](https://github.com/r-a-j-a-n)
