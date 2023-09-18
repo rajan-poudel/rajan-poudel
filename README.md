@@ -22,6 +22,19 @@
 <br>
 <img align="left" alt="Coding" width="400" src="https://metricool.com/wp-content/uploads/socialmedia-1.gif">
 <h3 align="right">Connect with me:</h3>
+
+<hr class="title-separator" />
+
+                                        <div class="btemplates-tags">
+<a href="https://www.instagram.com/r.a.j.a.n.p.o.u.d.e.l_/" class="bt-tag" title="Testimonials: Amaira Bahl"><div class="tag-thumb d-flex justify-content-center align-items-center"><img class="rounded-circle" src="https://cdn.pixabay.com/photo/2016/12/04/18/58/instagram-1882330_960_720.png" /></div><h4>Instagram</h4></a>
+<a href="https://www.facebook.com/profile.php?id=100092289158738" class="bt-tag" title="Testimonials: Amaira Bahl"><div class="tag-thumb d-flex justify-content-center align-items-center"><img class="rounded-circle" src="https://cdn.pixabay.com/photo/2017/12/06/04/56/facebook-3000954_960_720.png" /></div><h4>Facebook</h4></a>
+
+
+<a href="https://www.youtube.com/@rajanpoudel_" class="bt-tag" title="Testimonials: Amaira Bahl"><div class="tag-thumb d-flex justify-content-center align-items-center"><img class="rounded-circle" src="https://cdn.pixabay.com/photo/2016/11/19/03/08/youtube-1837872_960_720.png" /></div><h4>‎ ‎ YouTube</h4></a>
+
+</div>
+
+
 <p align="right">
 <a href="https://fb.com/100092289158738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100092289158738" height="30" width="40" /></a>
 <a href="https://instagram.com/_rajanpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajanpoudel" height="30" width="40" /></a>
