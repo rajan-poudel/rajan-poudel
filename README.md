@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <h3 align="left">About me:</h3>
-
+- ✨ I’m a student **currently studying +2**
 
 - 🌱 I’m currently learning **new stuffs related to programming**
 
@@ -15,10 +15,10 @@
 
 - 📫 How to reach me **rajanpoudel.np@gmail.com**
   
-- ⚡ Fun fact **I am ..... 🥴
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- ⚡ Fun fact **I am ..... 🥴**
+<img align="left" alt="Coding" width="400" src="https://metricool.com/wp-content/uploads/socialmedia-1.gif">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://fb.com/100092289158738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100092289158738" height="30" width="40" /></a>
 <a href="https://instagram.com/_rajanpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajanpoudel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajan_poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajan_poudel" height="30" width="40" /></a>
