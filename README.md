@@ -48,13 +48,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j-a-n&show_icons=true&locale=en&layout=compact" alt="r-a-j-a-n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-a-j-a-n&show_icons=true&locale=en" alt="r-a-j-a-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j-a-n&" alt="r-a-j-a-n" /></p>
-</div>
+
