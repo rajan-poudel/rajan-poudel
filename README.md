@@ -48,6 +48,7 @@
 <br>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j-a-n&show_icons=true&locale=en&layout=compact" alt="r-a-j-a-n" />
-
+<h3 align="center">Status :</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=r-a-j-a-n&show_icons=true&locale=en" alt="r-a-j-a-n" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-a-j-a-n&show_icons=true&locale=en&layout=compact" alt="r-a-j-a-n" />
