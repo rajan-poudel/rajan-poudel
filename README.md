@@ -1,3 +1,8 @@
+<style>
+  .anchorjs-link {
+  display: none !Important;
+}
+</style>
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*L2_3HJTZhbZQLXIwr0MVaQ.gif)
 <h1 align="center">Hi 👋, I'm Rajan Pôudel</h1>
 <h3 align="center">An intermediate python developer from Nepal 🇳🇵</h3>
