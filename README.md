@@ -15,8 +15,6 @@
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **rajanpoudel.np@gmail.com**
-  
-- ⚡ Fun fact **I am ..... 🥴**
 
 <br>
 <br>
