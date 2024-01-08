@@ -1,9 +1,9 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*L2_3HJTZhbZQLXIwr0MVaQ.gif)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkdDI1OXQzbWdrbGk0NjdnMnM3bm5hcWp2cDR2ZWthNXA2Z3NnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 <h1 align="center"> Hi 👋, I'm Rajan Poudel</h1>
 <h3 align="center">An intermediate python developer from Nepal 🇳🇵</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkdDI1OXQzbWdrbGk0NjdnMnM3bm5hcWp2cDR2ZWthNXA2Z3NnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <h3 align="left">About me:</h3>
 
 - ✨ I’m a student **currently studying +2**
