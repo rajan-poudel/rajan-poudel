@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRkdDI1OXQzbWdrbGk0NjdnMnM3bm5hcWp2cDR2ZWthNXA2Z3NnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
+![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)
 <h1 align="center"> Hi 👋, I'm Rajan Poudel</h1>
 <h3 align="center">An intermediate python developer from Nepal 🇳🇵</h3>
 <br>
