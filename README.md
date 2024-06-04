@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **new stuffs related to programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/r-a-j-a-n](https://github.com/r-a-j-a-n)
+- 👨‍💻 All of my projects are available at [https://github.com/rajan-poudel](https://github.com/rajan-poudel)
 
 - 💬 Ask me about **python**
 
