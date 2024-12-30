@@ -19,7 +19,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="Coding" width="400" src="https://metricool.com/wp-content/uploads/socialmedia-1.gif">
+<img align="left" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cffc7c80-95ab-47c5-accd-6535a3979ece">
 <br>
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -29,3 +29,5 @@
 <a href="https://instagram.com/_rajanpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajanpoudel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajan_poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajan_poudel" height="30" width="40" /></a> 
 </p>
+
+
