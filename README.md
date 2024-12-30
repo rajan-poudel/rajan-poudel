@@ -1,4 +1,4 @@
-<img alt="Passion" height="80%" src="https://github.com/user-attachments/assets/ac012f82-630e-4f7c-8667-22d67b874225">
+<img alt="Passion" height="60%" src="https://github.com/user-attachments/assets/ac012f82-630e-4f7c-8667-22d67b874225">
 <h1 align="center"> Hi 👋, I'm Rajan Poudel</h1>
 <h3 align="center">An Self-Learned Software Developer, Founder, ( Aspiring Doctor, <br> Quantum Physicist, Billionaire & A World Leader ) 🇳🇵</h3>
 <br>
