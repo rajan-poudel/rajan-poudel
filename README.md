@@ -29,6 +29,12 @@
 <a href="https://instagram.com/_rajanpoudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajanpoudel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajan_poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajan_poudel" height="30" width="40" /></a> 
 </p>
-[![Download CV](https://github.com/user-attachments/assets/7d3f7600-ad52-4a4d-9ba6-dd20d68dba2b)](https://rajan-poudel.github.io/assets/Rajan-Poudel-cv.pdf)
+<br>
+<br>
 
+<div align="center">
+
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://rajan-poudel.github.io/assets/Rajan-Poudel-cv.pdf)
+
+</div>
 
