@@ -1,6 +1,6 @@
-![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)
+![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/ac012f82-630e-4f7c-8667-22d67b874225)
 <h1 align="center"> Hi 👋, I'm Rajan Poudel</h1>
-<h3 align="center">An intermediate python developer from Nepal 🇳🇵</h3>
+<h3 align="center">An Self-Learned Software Developer, Founder, ( Aspiring Doctor, Quantum Physicist, Billionaire & A World Leader ) 🇳🇵</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
