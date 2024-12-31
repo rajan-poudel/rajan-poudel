@@ -36,6 +36,8 @@
 <br>
 <br>
 <br>
+<br>
+
 
 
 <div align="center">
@@ -43,7 +45,5 @@
 [![Download CV](https://img.shields.io/badge/Download-CV-ORANGE?style=for-the-badge&logo=microsoft-word&logoColor=BLACK)](https://rajan-poudel.github.io/assets/Rajan-Poudel-cv.pdf)
 
 </div>
-
-<br>
 <br>
 <br>
